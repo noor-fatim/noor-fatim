@@ -1,56 +1,48 @@
-<h1 align="left">Hi 👋, I'm Noor Fatima</h1>
+## Hi 👋, I'm Noor Fatima  
+### Frontend Developer | React Enthusiast ⚛️
 
+I’m a **Frontend Developer** focused on building **interactive, responsive, and user-friendly web applications** using **React, JavaScript, and Tailwind CSS**.  
+I enjoy turning ideas into smooth digital experiences and working with APIs and real-time features.
+
+---
+
+### 🚀 About Me
+- 🌱 Currently learning and improving my skills in **React**
+- 💻 Passionate about building clean, responsive UI
+- ⚡ Interested in real-time apps like **chat apps** and **to-do applications**
+- 📫 Reach me at: **noorf52431@gmail.com**
+
+---
+
+### 🛠️ Tech Stack
 <p>
-I’m a Frontend Developer with a strong focus on <b>React, JavaScript, and Tailwind CSS</b>. 
-I enjoy building interactive and responsive web applications, including real-time chat apps, 
-to-do applications, and media explorer platforms. I’m passionate about creating smooth user 
-experiences and integrating APIs effectively.
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40"/>
 </p>
 
-- 🌱 I’m currently learning and improving my skills in **React**
-- 💻 I love building clean, responsive, and user-friendly interfaces
-- 📫 How to reach me: **noorf52431@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<!-- You can add LinkedIn / GitHub / Twitter links here later -->
-</p>
+### 📌 Featured Projects
+**📝 To-Do App (Firebase)**  
+A task management app that allows users to create, update, and delete tasks in real time using Firebase.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/> 
-</a>
+**💬 Real-Time Chat App**  
+A responsive chat application enabling users to send and receive messages instantly with a smooth UI.
 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> 
-</a>
+---
 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> 
-</a>
+### 🤝 Connect With Me
+- 📧 Email: **noorf52431@gmail.com**
+- 💼 LinkedIn: *(add when ready)*
+- 🌐 Portfolio: *(optional)*
 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> 
-</a>
+---
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
-</a>
-
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> 
-</a>
-
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/> 
-</a>
-
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/> 
-</a>
-
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/> 
-</a>
-</p>
+⭐ *Feel free to explore my repositories and connect with me!*
